@@ -1,0 +1,302 @@
+Return-Path: <message@porsche.de>
+Received: from mailout13.fw.porsche.de (mailout13.fw.porsche.de [84.21.34.186])
+by inbound-smtp.eu-west-1.amazonaws.com with SMTP id b5l1t7ekn00c146a8fo40bspj9ti6784vgvat401
+for 18092836178@cyao.me;
+Thu, 19 Jul 2018 09:15:46 +0000 (UTC)
+X-SES-Spam-Verdict: PASS
+X-SES-Virus-Verdict: PASS
+Received-SPF: pass (spfCheck: domain of porsche.de designates 84.21.34.186 as permitted sender) client-ip=84.21.34.186; envelope-from=message@porsche.de; helo=mailout13.fw.porsche.de;
+Authentication-Results: amazonses.com;
+spf=pass (spfCheck: domain of porsche.de designates 84.21.34.186 as permitted sender) client-ip=84.21.34.186; envelope-from=message@porsche.de; helo=mailout13.fw.porsche.de;
+X-SES-RECEIPT: AEFBQUFBQUFBQUFIdlpqZHh0cllEcDYyWjNTcUVIbzZ2UXNJWWRoUGxMeHozUUMxUGhUdXFlWjJ1OVFsWHJZeXFQRnFmVVdxSzVpNVZnUUNMdkU4R1QyTVJjQ3Q5bzRldlNSbjMyT1BCck5MOStZMkk3RzRxY2lUdUxKcFE3S1VMcG9ONDRtb0l4YnFHWXp4Sk1xVnl4dFFJenR3eUpKeEltbnZ2eEVRMDNxTDdGNEEyTGVQSjk5Z1BjN05lWjJnaUhnOXR0VnROQmxhV0FMUk5zeG9qKytxQ0crN0NabXI0eHVja0kvMVdTNTh5cGZ5amY2dU1ra0VnNVl5dWI0MGV1aGNiTTVwS1B0UTZQVldwc0x0blVyUXBUREkwQWM0MThMaUUwTmNMMytZUER3ejJZUzZoL1E9PQ==
+X-SES-DKIM-SIGNATURE: a=rsa-sha256; q=dns/txt; b=TtucL+iAQ6qKQm6klMErZ3GYgNq1gdrqTZ9OtR3YpXvzqaJ7aMHihsWFuL0YCMPV7xZljh++LNxUxbXmchp7idyXSiwEuM3vRnAZuwIn2z6rn1I9l7FI6onPEBTj0cI8FRFJ3D8NJd5ImLBJl3s3/+YATkzFTYgRqU+uX5do4Y8=; c=relaxed/simple; s=uku4taia5b5tsbglxyj6zym32efj7xqv; d=amazonses.com; t=1531991747; v=1; bh=V9erVFsyvpA01D1jeYZIUZeLRU8T4gwbBhYqh6qjUn0=; h=From:To:Cc:Bcc:Subject:Date:Message-ID:MIME-Version:Content-Type:X-SES-RECEIPT;
+Received: from dezuipccap30.porsche.net (unknown [84.21.35.150])
+by dezuiitiml03.fw.porsche.de (Postfix) with ESMTP id 16D6E12FD
+for <18092836178@cyao.me>; Thu, 19 Jul 2018 11:15:43 +0200 (CEST)
+Date: Thu, 19 Jul 2018 10:15:43 +0100 (GMT+01:00)
+From: My Porsche <message@porsche.de>
+Reply-To: Porsche Connect Support <connect@porsche.us>
+To: "18092836178@cyao.me" <18092836178@cyao.me>
+Message-ID: <2038201690.168407.1531991743749.JavaMail.tomcat_pcc_custcommsvc@dezuipccap30>
+Subject: Please activate your Porsche ID account
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+boundary="----=_Part_168405_1676059946.1531991743748"
+x-trace-id: PCCK-AUTH-03749d4e-e5de-4359-8516-4f2a66e1863d
+
+------=_Part_168405_1676059946.1531991743748
+Content-Type: multipart/alternative; 
+boundary="----=_Part_168406_148859313.1531991743748"
+
+------=_Part_168406_148859313.1531991743748
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+To view full content, please use the rich HTML version.
+------=_Part_168406_148859313.1531991743748
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"> <head> <meta http-equiv=3D=
+"Content-Type" content=3D"text/html; charset=3DUTF-8" /> <meta name=3D"vi=
+ewport" content=3D"width=3Ddevice-width, initial-scale=3D1.0" /> <meta ht=
+tp-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" /> <title></title> <=
+style type=3D"text/css" xml:space=3D"preserve">img {outline:none;text-decor=
+ation:none;border:none;-ms-interpolation-mode: bicubic;}a img {border:none;=
+}a:link {color: #000000;text-decoration:none;}a:visited {color: #000000;tex=
+t-decoration:none;}a:hover {color: #000000;text-decoration:none;}a:active {=
+color: #000000;text-decoration:none;}a.btn-link:link {color: #ffffff !impor=
+tant;text-decoration: none !important;font-weight:normal !important;}a#btn-=
+link {color: #ffffff !important;text-decoration: none !important;font-weigh=
+t:normal !important;}td.btn-link:hover {background-color:#c00c00 !important=
+;}td#btn-link:hover {background-color:#c00c00 !important;}.image_fix {displ=
+ay:block;}p {margin: 1em 0;}table td {border-collapse: collapse;font-family=
+:Arial, Helvetica, sans-serif;font-size: 15px;color: #666666;mso-line-heigh=
+t-rule:exactly;}table {border-collapse:collapse;mso-table-lspace:0pt;mso-ta=
+ble-rspace:0pt;}/* Text color */td {color:#666666;}a[x-apple-data-detectors=
+] {color: inherit !important;text-decoration: none !important;font-size: in=
+herit !important;font-family: inherit !important;font-weight: inherit !impo=
+rtant;line-height: inherit !important;}td[class].skalebigvisual img {max-wi=
+dth:100% !important;width:100% !important;height:auto !important;}td[class]=
+.skalesmallvisual img {max-width:100% !important;width:100% !important;heig=
+ht:auto !important;}.footer a {color: #ffffff !important;}.contact a {color=
+: #ffffff !important;}a[x-apple-data-detectors] {color: inherit !important;=
+text-decoration: none !important;font-size: inherit !important;font-family:=
+inherit !important;font-weight: inherit !important;line-height: inherit !i=
+mportant;}span[class=3D"tel-link"] a {color:#000001 !important;text-decorat=
+ion:none !important;}a[class].hoverred:hover {color:#c00c00 !important;text=
+-decoration:none !important;}a[class].hoverunderline:hover {text-decoration=
+:underline !important;}a[class].hoverfooter:hover {color:#d00d00 !important=
+;text-decoration:none !important;}a[class].hoverfooter:hover {color:#d00d00=
+!important;text-decoration:none !important;}.gmailfix {display:none;displa=
+y:none!important;}table[class=3Ddevicewidth] {width: 100% !important;min-wi=
+dth:300px !important;max-width:600px !important;text-align:center!important=
+;}/*IPHONE STYLES*/@media only screen and (max-width: 600.0px) {*[class].hi=
+de {display:none;}*[class].devicewidth {width: 100% !important;min-width:30=
+0px !important;max-width:600px !important;text-align:center!important;}img[=
+class].devicewidthimg {width: 100% !important;min-width:280px !important;ma=
+x-width:560px !important;height:auto !important;}*[class].column1 {width: 5=
+0% !important;min-width:140px !important;max-width:290px !important;text-al=
+ign:center!important;}*[class].column2 {width: 50% !important;min-width:140=
+px !important;max-width:290px !important;text-align:center!important;}td[cl=
+ass].firstcolumnpr {padding-right:20px !important;}td[class].secondcolumnpl=
+{padding-left:20px !important;}td[class].firstcolumnpr10 {padding-right:10=
+px !important;}td[class].secondcolumnpl10 {padding-left:10px !important;}td=
+[class].skalebigvisual img {max-width:100% !important;width:100% !important=
+;height:auto !important;}td[class].skalesmallvisual img {max-width:100% !im=
+portant;width:100% !important;height:auto !important;}}@media only screen a=
+nd (max-width: 480.0px) {*[class].column1 {width: 100% !important;min-width=
+:280px !important;max-width:480px !important;text-align:center!important;}*=
+[class].column2 {width: 100% !important;min-width:280px !important;max-widt=
+h:480px !important;text-align:center!important;}*[class].columnfull {width:=
+100% !important;min-width:240px !important;max-width:480px !important;text=
+-align:center!important;}td[class].firstcolumnpr {padding-right:0 !importan=
+t;}td[class].secondcolumnpl {padding-left:0 !important;}td[class].firstcolu=
+mnpr10 {padding-right:0 !important;}td[class].secondcolumnpl10 {padding-lef=
+t:0 !important;}td[class].pt15 {padding-top:15px !important;}td[class].pt20=
+{padding-top:20px !important;}.padding10_sides {padding-left: 10px !import=
+ant;padding-right: 10px !important;padding-top: 0 !important;padding-bottom=
+: 0 !important;}td[class].bggrey {background-color:#4a4d54;}img[class].logo=
+{width:75px;height:auto;}span[class].btnleft {display:block;float:left;wid=
+th:6%;padding-top:4px;}span[class].btnright {display:block;float:left;width=
+:94%;padding-bottom:10px;}}@media only screen and (max-width: 320.0px) {td[=
+class].tdlistleft {display:block;float:left;border:none !important;padding-=
+top:0 !important;padding-bottom:0 !important;}td[class].tdlistright {displa=
+y:block;float:left;border:none !important;padding-top:0 !important;padding-=
+bottom:0 !important;}img[class].devicewidthsmallimg {width: 100% !important=
+;min-width:280px !important;max-width:280px !important;height:auto !importa=
+nt;}}</style> </head> <body style=3D"margin: 0 !important; padding:0 !imp=
+ortant; -webkit-text-size-adjust:none;" bgcolor=3D"#ffffff" link=3D"#000000=
+" vlink=3D"#000000" alink=3D"#000000"> <div align=3D"center" style=3D"mar=
+gin: 0px; padding:0px; -webkit-text-size-adjust:none;" bgcolor=3D"#ffffff">=
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center"> <tr> <td align=3D"center" > <table width=
+=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center" =
+class=3D"devicewidth"> <tr> <td > <table width=3D"=
+100%" align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <=
+tr> <td align=3D"center" valign=3D"middle" style=3D"padding: 20px;" bgcol=
+or=3D"#ffffff"><a href=3D"http://www.porsche.com/"><img width=3D"100" heigh=
+t=3D"53" style=3D"display: block;" alt=3D"" src=3D"http://files.porsche.com=
+/filestore.aspx/normal.jpg?pool=3Dmultimedia&type=3Dimage&id=3Dpcc-mailtemp=
+late-porsche-logo-jpg&lang=3Dnone&filetype=3Dnormal" border=3D"0" class=3D"=
+logo" /></a></td> </tr></table></td> </tr> <tr> <td =
+> <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0"> <tr> <td class=3D"skalebigvisual"><img width=3D"600" height=3D"=
+242" title=3D"" style=3D"display: block;" alt=3D"" src=3D"http://files.pors=
+che.com/filestore.aspx/normal.jpg?pool=3Dmultimedia&type=3Dimage&id=3Dpcc-m=
+ailtemplate-topteaser-jpg&lang=3Dnone&filetype=3Dnormal" border=3D"0" /></t=
+d> </tr></table></td> </tr> <tr> <td > <ta=
+ble width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> =
+<tr> <td align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF" s=
+tyle=3D"padding: 20px; font-family: Arial, Helvetica, sans-serif; font-size=
+: 14px; line-height: 20px; color: #000000;" > <table width=3D"=
+100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> =
+<td align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF" style=3D=
+"font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 2=
+0px; color: #000000;" > <table width=3D"100%" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0"> <tr> <td align=3D"left" valign=3D"top" bgcolor=
+=3D"#FFFFFF" style=3D"padding-bottom:30px; padding-top:20px;font-family: Ar=
+ial, Helvetica, sans-serif; font-size: 14px; line-height: 20px; color: #000=
+000;"> <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"> <tr> <td align=3D"left" valign=3D"top" bgcolor=3D"#FFFFF=
+F" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 18px; lin=
+e-height: 20px; color: #000000; font-weight: bold;"> Please activate =
+your Porsche ID account</td> </tr> </table></td> </tr> </table> =
+Dear Mr. Sun, <br clear=3D"none" /><br clear=3D"none" />Welc=
+ome to My Porsche and thank you for registering.<br clear=3D"none" /><br cl=
+ear=3D"none" />Just one more step to activate your personal Porsche ID:<br =
+clear=3D"none" /><br clear=3D"none" /> <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" class=3D"columnfull"> <tr> <td align=3D"left" val=
+ign=3D"top" bgcolor=3D"#ffffff" style=3D"font-family: Arial, Helvetica, san=
+s-serif; color: #000000; font-size: 14px;"> <table border=3D"0" align=
+=3D"left" cellpadding=3D"0" cellspacing=3D"0"> <tr> <td align=3D=
+"left" bgcolor=3D"#4a4d54" class=3D"btn-link" id=3D"btn-link" style=3D"bord=
+er-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-=
+radius: 3px; border-bottom-left-radius: 3px; background-color: #4a4d54; tex=
+t-align: center;"><a href=3D"https://login.porsche.com/auth/us/en-us/invite=
+/confirm/be769ed0-83eb-4c1f-9723-ec0a935778b1/fb9714311cc54d6b" class=3D"bt=
+n-link" id=3D"btn-link" style=3D"color: #ffffff; font-family: Arial, Helvet=
+ica, sans-serif; font-size: 14px; line-height: 20px; text-align: left; text=
+-decoration: none; display: block; padding: 13px 20px; border: 0px solid #4=
+a4d54; border-top-left-radius: 3px; border-top-right-radius: 3px; border-bo=
+ttom-right-radius: 3px; border-bottom-left-radius: 3px;"><span class=3D"btn=
+left"><img src=3D"http://files.porsche.com/filestore.aspx/normal.jpg?pool=
+=3Dmultimedia&type=3Dimage&id=3Dpcc-mailtemplate-btn-arrow-png&lang=3Dnone&=
+filetype=3Dnormal" title=3D"" alt=3D"" width=3D"16" height=3D"10" border=3D=
+"0" /></span><span class=3D"btnright"> Activate Porsche ID account=
+</span></a></td> </tr> </table></td> </tr> </table><br clear=3D=
+"none" />Click the link above or copy and paste it into a new browser windo=
+w. The link will expire after 14 days and you will be required to restart t=
+he process.<br clear=3D"none" /><br clear=3D"none" />Enjoy our online conte=
+nt.<br clear=3D"none" /><br clear=3D"none" />Your Porsche Team</td> =
+</tr> </table></td> </tr> </table></td=
+> </tr> <tr> <td align=3D"center" > <table =
+width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"cen=
+ter" class=3D"devicewidth"> <tr> <td > <t=
+able width=3D"600" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=
+=3D"center" class=3D"devicewidth" style=3D"max-width:600px;"> <tr> <td> =
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> =
+<tr> <td align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF" style=
+=3D"padding: 20px; padding-bottom:30px; padding-top:10px;"> <table wi=
+dth=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> =
+<td align=3D"left" valign=3D"top" bgcolor=3D"#f0f0f0"> <ta=
+ble width=3D"100%" border=3D"0" align=3D"left" cellpadding=3D"0" cellspacin=
+g=3D"0"> <tr> <td style=3D"padding:20px;"> =
+<table width=3D"100%" border=3D"0" align=3D"left" cellpadding=3D"0" cellsp=
+acing=3D"0"> <tr> <td align=3D"left" valign=3D"t=
+op" bgcolor=3D"#f0f0f0" style=3D"font-family: Arial, Helvetica, sans-serif;=
+font-size: 14px; line-height: 20px; color: #000000;"><p>For further inform=
+ation, questions, or assistance please contact us at either:</p><p> =
+<table width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"font-family: Arial, Helvetica, sans-serif; color: #000000=
+; mso-line-height-rule:exactly; line-height:20px; font-size: 14px;">Phone: =
++1 800 767-7243</td> </tr> =
+</table></p><p>Email: <a style=3D"color: #000000;text-decoration:underl=
+ine;" href=3D"mailto:connect@porsche.us" class=3D"hoverred"> =
+connect@porsche.us</a></p></td> </tr> </table><=
+/td> </tr> </table></td> </tr> </table></td=
+> </tr> </table></td> </tr></table></td> </tr> =
+<tr> <td > <table width=3D"600" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" align=3D"center" class=3D"devicewidth" style=
+=3D"max-width:600px;"> <tr> <td> <table width=3D"100%" bgcolor=3D"#ff=
+ffff" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td a=
+lign=3D"left" valign=3D"top" style=3D"color: #000000; padding-top: 30px; pa=
+dding-right: 20px; padding-left: 20px; font-family: Arial, Helvetica, sans-=
+serif; font-size: 18px;" bgcolor=3D"#ffffff"><span style=3D"color: #000000;=
+line-height: 22px; font-size: 18px;"><strong>Connect with Porsche.</strong=
+></span><br /><br /> <table align=3D"left" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0"> <tr> <td align=3D"left" valign=3D"=
+top"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> =
+<tr> <td align=3D"left" valign=3D"middle" style=3D"paddin=
+g-right: 5px; padding-bottom: 5px;"><a href=3D"https://www.facebook.com/por=
+sche"><img width=3D"36" height=3D"36" title=3D"" style=3D"display: block;" =
+alt=3D"" src=3D"http://files.porsche.com/filestore.aspx/normal.jpg?pool=3Dm=
+ultimedia&type=3Dimage&id=3Dpcc-mailtemplate-facebook-jpg&lang=3Dnone&filet=
+ype=3Dnormal" border=3D"0" /></a></td> <td align=3D"left" valign=
+=3D"middle" style=3D"padding-right: 5px; padding-bottom: 5px;"><a href=3D"h=
+ttps://plus.google.com/+porsche/posts"><img width=3D"36" height=3D"36" titl=
+e=3D"" style=3D"display: block;" alt=3D"" src=3D"http://files.porsche.com/f=
+ilestore.aspx/normal.jpg?pool=3Dmultimedia&type=3Dimage&id=3Dpcc-mailtempla=
+te-google-jpg&lang=3Dnone&filetype=3Dnormal" border=3D"0" /></a></td> =
+<td align=3D"right" valign=3D"middle" style=3D"padding-right: 5px; pa=
+dding-bottom: 5px;"><a href=3D"https://www.youtube.com/user/Porsche"><img w=
+idth=3D"36" height=3D"36" title=3D"" style=3D"display: block;" alt=3D"" src=
+=3D"http://files.porsche.com/filestore.aspx/normal.jpg?pool=3Dmultimedia&ty=
+pe=3Dimage&id=3Dpcc-mailtemplate-youtube-jpg&lang=3Dnone&filetype=3Dnormal"=
+border=3D"0" /></a></td> <td align=3D"right" valign=3D"middle" =
+style=3D"padding-right: 5px; padding-bottom: 5px;"><a href=3D"https://twitt=
+er.com/porsche/"><img width=3D"36" height=3D"36" title=3D"" style=3D"displa=
+y: block;" alt=3D"" src=3D"http://files.porsche.com/filestore.aspx/normal.j=
+pg?pool=3Dmultimedia&type=3Dimage&id=3Dpcc-mailtemplate-twitter-jpg&lang=3D=
+none&filetype=3Dnormal" border=3D"0" /></a></td> </tr> <=
+/table></td> </tr> </table> <table align=3D"left" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td align=
+=3D"left" valign=3D"top"> <table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0"> <tr> <td align=3D"left" valign=3D"mid=
+dle" style=3D"padding-right: 5px; padding-bottom: 5px;"><a href=3D"https://=
+www.pinterest.de/porsche/"><img width=3D"36" height=3D"36" title=3D"" style=
+=3D"display: block;" alt=3D"" src=3D"http://files.porsche.com/filestore.asp=
+x/normal.jpg?pool=3Dmultimedia&type=3Dimage&id=3Dpcc-mailtemplate-pinterest=
+-jpg&lang=3Dnone&filetype=3Dnormal" border=3D"0" /></a></td> <td=
+align=3D"left" valign=3D"middle" style=3D"padding-right: 5px; padding-bott=
+om: 5px;"><a href=3D"https://www.instagram.com/porsche"><img width=3D"36" h=
+eight=3D"36" title=3D"" style=3D"display: block;" alt=3D"" src=3D"http://fi=
+les.porsche.com/filestore.aspx/normal.jpg?pool=3Dmultimedia&type=3Dimage&id=
+=3Dpcc-mailtemplate-instagram-jpg&lang=3Dnone&filetype=3Dnormal" border=3D"=
+0" /></a></td> <td align=3D"right" valign=3D"middle" style=3D"pa=
+dding-right: 5px; padding-bottom: 5px;"><a href=3D"https://www.linkedin.com=
+/company/porsche-ag"><img width=3D"36" height=3D"36" title=3D"" style=3D"di=
+splay: block;" alt=3D"" src=3D"http://files.porsche.com/filestore.aspx/norm=
+al.jpg?pool=3Dmultimedia&type=3Dimage&id=3Dpcc-mailtemplate-linkdin-jpg&lan=
+g=3Dnone&filetype=3Dnormal" border=3D"0" /></a></td> </tr> =
+</table></td> </tr> </table></td> </tr> <tr> <=
+td align=3D"left" valign=3D"top" style=3D"padding: 20px 20px 10px; color: #=
+000000; font-family: Arial, Helvetica, sans-serif; font-size: 14px;" bgcolo=
+r=3D"#ffffff"> <table width=3D"100%" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0"> <tr> <td align=3D"left" valign=3D"top" sty=
+le=3D"color: #000000; font-family: Arial, Helvetica, sans-serif; font-size:=
+14px;"> <table align=3D"left" border=3D"0" class=3D"columnfull" c=
+ellspacing=3D"0" cellpadding=3D"0"> <tr> <td align=3D"=
+left" valign=3D"top" style=3D"color: #000000; padding-bottom: 10px; font-fa=
+mily: Arial, Helvetica, sans-serif; font-size: 14px;">=C2=A9 2018 Porsche C=
+ars North America</td> </tr> </table> <table al=
+ign=3D"right" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"col=
+umnfull"> <tr> <td align=3D"left" valign=3D"top" style=
+=3D"color: #000000; padding-bottom: 10px; font-family: Arial, Helvetica, sa=
+ns-serif; font-size: 14px;"><a style=3D"color: #000000;text-decoration:unde=
+rline;" href=3D"http://www.porsche.com/usa/" class=3D"hoverred">www.porsche=
+.com</a></td> </tr> </table></td> </tr> </t=
+able></td> </tr> <tr> <td align=3D"left" valign=3D"top" style=
+=3D"padding: 20px; color: #ffffff; font-family: Arial, Helvetica, sans-seri=
+f; font-size: 14px;" bgcolor=3D"#000000"> <table width=3D"100%" bgcol=
+or=3D"#000000" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr=
+> <td align=3D"left" valign=3D"top" style=3D"color: #ffffff; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 11px;" class=3D"footer"><p>=
+If you no longer wish to receive emails from us, please click here to <a st=
+yle=3D"color: #ffffff;text-decoration:underline;" class=3D"hoverfooter" hre=
+f=3D"http://www.porsche.com/usa/dialogue/emailconsent/optout/">unsubscribe.=
+</a><br>Porsche recommends seat-belt usage and observance of traffic laws a=
+t all times.<br>Please do not reply to this e-mail. If you have any questio=
+ns, please contact 1-800-PORSCHE. <br>Please read our <a style=3D"color: #f=
+fffff;text-decoration:underline;" class=3D"hoverfooter" href=3D"https://con=
+nect-store.porsche.com/us/en/tac/t/privacy?reducedHeaderFooter=3Dtrue">priv=
+acy policy.</a><br>Porsche Cars North America, Inc. I One Porsche Drive I A=
+tlanta, Georgia 30354<br><a style=3D"color: #ffffff;text-decoration:underli=
+ne;" class=3D"hoverfooter" href=3D"mailto:info@porsche.us">info@porsche.us<=
+/a> I 1-800-PORSCHE I <a style=3D"color: #ffffff;text-decoration:underline;=
+" class=3D"hoverfooter" href=3D"http://www.porsche.com/usa/">www.porsche.co=
+m</a> </br></br></br></br></br></p></td> </tr> </table></td> =
+</tr> </table></td> </tr></table></td> </tr> </ta=
+ble></td> </tr> </table></td> </tr> </table> <div cl=
+ass=3D"gmailfix" style=3D"white-space:nowrap; font:15px courier; line-heigh=
+t:0;"> <=
+/div> </div> <img alt=3D" " src=3D"https://www.google-analytics.com=
+/collect?v=3D1&cid=3DZV8C8T8N0KOKHKZT&tid=3DUA-109468908-2&t=3Devent&ec=3De=
+mail&ea=3Dopen&cm=3Demail&cn=3DPCCI_confirmSelfregistration_Prospect&cs=3DU=
+S&geoid=3DUS" /> </body></html>
+------=_Part_168406_148859313.1531991743748--
+
+------=_Part_168405_1676059946.1531991743748--
